@@ -838,7 +838,7 @@ nav {
 }
 
 /* Header */
-header#branding h1 a {
+header#branding #site-title a {
   text-decoration: none;
 }
 
@@ -913,7 +913,7 @@ header#branding {
   background: #f1eee1 url("images/bg_wood4.jpg") repeat 0 bottom;
 }
 
-.header h1 {
+.header #site-title {
   max-width: 38em;
   margin: auto;
 }
@@ -980,7 +980,7 @@ h4.h5 {
   line-height: 1.2;
 }
 
-.header h1 {
+.header #site-title {
   font-size: 2.2em;
 }
 
@@ -1321,7 +1321,7 @@ footer ul {
     margin-left: 0;
   }
 
-  .header h1 {
+  .header #site-title {
     font-size: 2em;
   }
 
@@ -1636,7 +1636,7 @@ h6 { font-size: 1.6em; }*/
     font-size: 1em;
   }
 
-  .header h1 {
+  .header #site-title {
     font-size: 2.2em;
   }
 
